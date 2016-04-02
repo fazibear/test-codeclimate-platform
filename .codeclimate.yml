@@ -1,5 +1,20 @@
+---
 engines:
+  fixme-fazi:
+    enabled: true
+  elixir:
+    enabled: true
+  reek:
+    enabled: false
   rubocop:
     enabled: true
+  duplication:
+    enabled: false
+    config:
+      languages:
+      - ruby
+      - javascript
+      - python
+      - php
 exclude_paths:
-  - opal/vendor/*
+- opal/vendor/*
