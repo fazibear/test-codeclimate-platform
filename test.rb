@@ -1,3 +1,4 @@
+# test
 class Test
   #TODO: dupa
   def test
