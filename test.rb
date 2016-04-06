@@ -1,5 +1,3 @@
-
-
 class Test
   #TODO: dupa
   def test
